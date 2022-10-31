@@ -1,0 +1,8 @@
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\bin\Debug\Course1.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\bin\Debug\Course1.pdb
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.csproj.AssemblyReference.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.UserControl1.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.csproj.GenerateResource.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.csproj.CoreCompileInputs.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.pdb
