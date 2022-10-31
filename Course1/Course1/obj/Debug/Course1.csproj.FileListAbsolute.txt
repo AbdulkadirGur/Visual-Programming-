@@ -6,3 +6,7 @@ C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.csproj.CoreCompileInputs.cache
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.dll
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.pdb
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Interop.WMPLib.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.csproj.ResolveComReference.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.Exercises2.Form1.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course1\Course1\obj\Debug\Course1.mazzlum.Form1.resources
