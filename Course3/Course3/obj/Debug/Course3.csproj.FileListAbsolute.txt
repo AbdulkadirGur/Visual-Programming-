@@ -1,0 +1,11 @@
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\bin\Debug\Course3.exe.config
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\bin\Debug\Course3.exe
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\bin\Debug\Course3.pdb
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.csproj.AssemblyReference.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.csproj.SuggestedBindingRedirects.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.Form1.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.Properties.Resources.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.csproj.GenerateResource.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.csproj.CoreCompileInputs.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.exe
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course3\Course3\obj\Debug\Course3.pdb
