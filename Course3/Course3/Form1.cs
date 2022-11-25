@@ -29,6 +29,7 @@ namespace Course3
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             int uzunluk = textBox1.Text.Length;
             try
             {
@@ -44,10 +45,11 @@ namespace Course3
             
 
         }
-
+        int i = 0;
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            i++;
+            label2.Text = i.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -64,6 +66,16 @@ namespace Course3
             
             
             
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
