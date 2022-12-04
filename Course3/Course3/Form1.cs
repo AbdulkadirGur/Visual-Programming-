@@ -30,17 +30,22 @@ namespace Course3
         private void button1_Click(object sender, EventArgs e)
         {
             
-            int uzunluk = textBox1.Text.Length;
-            try
-            {
-                int bas = textBox3.Text.IndexOf(textBox1.Text);
-                textBox3.Select(bas, uzunluk);
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Bulunamadi!!!");
-              
-            }
+            
+            
+                int s = textBox3.Text.IndexOf(textBox1.Text);
+                if (s == -1) MessageBox.Show("Aranan oge bulunamadi");
+                else
+                {
+
+                    textBox3.HideSelection = false;
+                    int uzunluk = textBox1.Text.Length;
+                    textBox3.Select(s, uzunluk);
+                    
+                    
+
+                }
+            
+            
            
             
 
@@ -54,15 +59,7 @@ namespace Course3
 
         private void button2_Click(object sender, EventArgs e)
         {
-            try
-            {
-                textBox3.SelectedText = textBox2.Text;
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Herhangi bir alani secmediniz");
-                throw;
-            }
+            
             
             
             
@@ -75,7 +72,9 @@ namespace Course3
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            int s = textBox3.Text.IndexOf(textBox1.Text);
+            textBox3.SelectedText = textBox1.Text;
+            textBox3.Select(s, textBox1.Text.Length);
         }
     }
 }
