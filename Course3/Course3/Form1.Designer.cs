@@ -69,8 +69,9 @@
             this.textBox3.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.textBox3.Size = new System.Drawing.Size(300, 160);
             this.textBox3.TabIndex = 2;
-            this.textBox3.Text = "I have coding and programming talents in addition to an engineer\'s education from" +
-    " the university. Design, business concepts, and new ventures pique my interest.";
+            this.textBox3.Text = "I have coding andand programming talents in addition to an engineer\'s education f" +
+    "rom the university. Design, business concepts, and new ventures pique my interes" +
+    "t.";
             // 
             // button1
             // 
@@ -134,6 +135,7 @@
             this.button5.TabIndex = 9;
             this.button5.Text = "Change to All";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label2
             // 

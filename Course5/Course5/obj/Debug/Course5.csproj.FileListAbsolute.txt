@@ -11,3 +11,5 @@ C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course5\Course5\obj\Debug\Course5.pdb
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course5\Course5\obj\Debug\Course5.Form2.resources
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course5\Course5\obj\Debug\Course5.Form3.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course5\Course5\obj\Debug\Course5.Form4.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course5\Course5\obj\Debug\Course5.Form5.resources

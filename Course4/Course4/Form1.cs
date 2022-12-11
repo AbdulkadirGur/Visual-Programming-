@@ -40,5 +40,17 @@ namespace Course4
             
             
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int a=comboBox1.SelectedIndex;
+            comboBox2.SelectedIndex = a;
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int b = comboBox2.SelectedIndex;
+            comboBox1.SelectedIndex = b;
+        }
     }
 }
