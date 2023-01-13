@@ -1,0 +1,17 @@
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\bin\Debug\net6.0-windows\Course7.exe
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\bin\Debug\net6.0-windows\Course7.deps.json
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\bin\Debug\net6.0-windows\Course7.runtimeconfig.json
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\bin\Debug\net6.0-windows\Course7.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\bin\Debug\net6.0-windows\Course7.pdb
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.csproj.AssemblyReference.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.Form1.resources
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.csproj.GenerateResource.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.AssemblyInfoInputs.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.AssemblyInfo.cs
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.csproj.CoreCompileInputs.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\refint\Course7.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.pdb
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\Course7.genruntimeconfig.cache
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course7\Course7\Course7\obj\Debug\net6.0-windows\ref\Course7.dll

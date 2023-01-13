@@ -59,7 +59,7 @@ namespace Course6
             {
                 bayrak = true;
                 pictureBox1.Location = new Point(BX , BY +100);
-                //timer3.Enabled = false;
+                    timer3.Enabled = true; 
             }
             if (pictureBox1.Location.X == 0)
             {

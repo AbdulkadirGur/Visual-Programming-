@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Course3\\Course3",
-    "\\Course5\\Course5"
+    "\\Course6",
+    "\\Course6\\Course6",
+    "\\Course6\\Course6\\Course6"
   ],
-  "SelectedNode": "\\Course6",
+  "SelectedNode": "\\Course6\\Course6\\Course6\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
