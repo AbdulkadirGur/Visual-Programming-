@@ -15,3 +15,4 @@ C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course8\Course8\Course8\obj\Debug\net6.0-windows\Course8.pdb
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course8\Course8\Course8\obj\Debug\net6.0-windows\Course8.genruntimeconfig.cache
 C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course8\Course8\Course8\obj\Debug\net6.0-windows\ref\Course8.dll
+C:\Harddisk\3.Sinif\Canakkale_Güz\Visual_Programming\Visual-Programming-\Course8\Course8\Course8\obj\Debug\net6.0-windows\Course8.Form2.resources
