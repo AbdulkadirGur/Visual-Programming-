@@ -56,23 +56,21 @@ namespace Course7
 
         private void Vade_SelectedIndexChanged(object sender, EventArgs e)
         {
+            Faiz.SelectedIndex = Vade.SelectedIndex;
+            /*
             int secilen = Vade.SelectedIndex;
             if (secilen >= 0)
             {
                 Faiz.SelectedIndex = secilen;
-            }
-            
+            }*/
 
-            
+
+
         }
 
         private void Faiz_SelectedIndexChanged(object sender, EventArgs e)
         {
-            int secilen = Faiz.SelectedIndex;
-            if (secilen >= 0)
-            {
-                Vade.SelectedIndex = secilen;
-            }
+            Vade.SelectedIndex = Faiz.SelectedIndex;    
         }
     }
 }
