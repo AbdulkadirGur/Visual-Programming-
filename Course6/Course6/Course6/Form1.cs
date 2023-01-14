@@ -43,6 +43,12 @@ namespace Course6
         int sayac =0;
         private void timer4_Tick(object sender, EventArgs e)
         {
+            
+
+            
+            
+            
+            /*
             int BX = pictureBox1.Location.X;
             int BY = pictureBox1.Location.Y;
             if (bayrak == false)
@@ -72,7 +78,7 @@ namespace Course6
                 timer4.Enabled = false;
             }
 
-            //pictureBox1.Location = new Point(BX +5, BY);
+            //pictureBox1.Location = new Point(BX +5, BY);*/
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -83,6 +89,11 @@ namespace Course6
         private void button5_Click(object sender, EventArgs e)
         {
             timer4.Enabled= false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
